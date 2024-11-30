@@ -23,3 +23,5 @@ The script requires initial setup by editing key variables at the beginning of t
 - PREDEFINED_DELETE_VALUES: Predefined MAC addresses or SSIDs to exclude.
 
 The script is fully commented to facilitate understanding of its functionality. Refer to the comments for detailed explanations.
+
+For a demonstration, watch the [YouTube video](https://youtu.be/FhOUriX0iL8).
